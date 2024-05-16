@@ -1,0 +1,1 @@
+# godot_assets_and_templates
